@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-236" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="850" width="2030" height="810" as="geometry" />
+        </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="2030" height="1300" as="geometry" />
         </mxCell>
@@ -167,10 +170,7 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-142" value="Driver(PCIE, DMA控制器)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1640" y="435" width="255" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-236" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="850" width="2030" height="810" as="geometry" />
-        </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-144" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;PCIE&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-144" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;PCIE&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="995" y="670" width="905" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-161" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.853;exitY=0.022;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-144" target="B37dk_r1iqh0blmyG7QI-142">

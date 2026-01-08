@@ -61,8 +61,11 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-63" value="&lt;b&gt;FPGA硬件矩阵&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="1065" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-64" value="&lt;b&gt;FPGA硬件矩阵&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1075" width="60" height="30" as="geometry" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-64" value="&lt;b&gt;互联层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-65" value="&lt;b&gt;互联层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="715" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

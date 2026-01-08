@@ -58,14 +58,14 @@
             <mxPoint x="1160" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-63" value="&lt;b&gt;FPGA硬件矩阵&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-63" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;FPGA硬件矩阵&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="830" y="1065" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-64" value="&lt;b&gt;互联层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-64" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;互联层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="840" y="705" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-65" value="&lt;b&gt;软件层Software Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="465" width="60" height="30" as="geometry" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-65" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;软件层Software Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="795" y="465" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

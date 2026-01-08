@@ -7,6 +7,12 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="2030" height="1300" as="geometry" />
         </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-235" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="600" width="2030" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-234" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="360" width="2030" height="240" as="geometry" />
+        </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-231" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2060" y="1080" width="680" height="520" as="geometry" />
         </mxCell>
@@ -208,14 +214,14 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-221" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;全局时钟源&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Global Ref Clk&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1500" y="930" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-236" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="850" width="2030" height="810" as="geometry" />
+        </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-232" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;curved=1;entryX=0;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-54" target="B37dk_r1iqh0blmyG7QI-231">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1990" y="1250" as="sourcePoint" />
             <mxPoint x="2040" y="1200" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-234" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

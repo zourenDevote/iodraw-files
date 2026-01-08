@@ -182,25 +182,25 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-216" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.007;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;startArrow=classic;startFill=1;strokeColor=#00994D;fontSize=20;fontStyle=1" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-50" target="B37dk_r1iqh0blmyG7QI-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-219" value="NOC主路由" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-219" value="NOC主路由" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-220" value="DMA引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-220" value="DMA引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-223" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-221" target="B37dk_r1iqh0blmyG7QI-48">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-223" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-221" target="B37dk_r1iqh0blmyG7QI-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-224" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-221" target="B37dk_r1iqh0blmyG7QI-49">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-224" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-221" target="B37dk_r1iqh0blmyG7QI-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-225" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-221" target="B37dk_r1iqh0blmyG7QI-50">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-225" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-221" target="B37dk_r1iqh0blmyG7QI-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-226" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-221" target="B37dk_r1iqh0blmyG7QI-54">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-226" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-221" target="B37dk_r1iqh0blmyG7QI-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-221" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;全局时钟源&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Global Ref Clk&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-221" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;全局时钟源&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Global Ref Clk&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1500" y="930" width="120" height="120" as="geometry" />
         </mxCell>
       </root>

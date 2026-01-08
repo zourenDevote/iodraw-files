@@ -13,7 +13,7 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-235" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="760" y="600" width="2030" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-234" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-234" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="2030" height="240" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-231" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;curved=1;startArrow=classic;startFill=1;strokeColor=#00994D;fontSize=20;fontStyle=1" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-48" target="B37dk_r1iqh0blmyG7QI-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-48" value="MAIN FPGA" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-48" value="MAIN FPGA" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1160" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;curved=1;startArrow=classic;startFill=1;strokeColor=#00994D;fontSize=20;fontStyle=1" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-49" target="B37dk_r1iqh0blmyG7QI-50">

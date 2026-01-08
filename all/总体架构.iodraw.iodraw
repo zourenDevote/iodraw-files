@@ -105,6 +105,9 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-111" target="B37dk_r1iqh0blmyG7QI-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-125" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1740" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

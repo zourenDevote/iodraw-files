@@ -76,10 +76,7 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-73" value="&lt;b&gt;Probes IP&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2235" y="1060" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.326;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-73" target="B37dk_r1iqh0blmyG7QI-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.675;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-73" target="B37dk_r1iqh0blmyG7QI-66">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.354;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-73" target="B37dk_r1iqh0blmyG7QI-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

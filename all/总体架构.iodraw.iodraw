@@ -118,10 +118,10 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-32" value="&lt;b&gt;GUI界面&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-33" value="&lt;b&gt;USER LOGIC&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-33" value="&lt;b&gt;数据处理引擎&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-34" value="&lt;b&gt;USER LOGIC&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-34" value="&lt;b&gt;控制API&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-35" value="&lt;b&gt;USER LOGIC&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

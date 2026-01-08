@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-231" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1160" width="680" height="520" as="geometry" />
+        </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="1200" height="1300" as="geometry" />
         </mxCell>

@@ -7,11 +7,14 @@
         <mxCell id="32XEwm2GxQgWsTrvoj4Y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="32XEwm2GxQgWsTrvoj4Y-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="32XEwm2GxQgWsTrvoj4Y-3" value="组合逻辑" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="210" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="32XEwm2GxQgWsTrvoj4Y-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ThNlsDh-dKsuDc1vNGk-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="210" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

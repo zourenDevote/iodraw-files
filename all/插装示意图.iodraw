@@ -125,7 +125,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8ThNlsDh-dKsuDc1vNGk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ThNlsDh-dKsuDc1vNGk-42" target="8ThNlsDh-dKsuDc1vNGk-41">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="270" />
+              <mxPoint x="230" y="360" />
+              <mxPoint x="905" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8ThNlsDh-dKsuDc1vNGk-42" value="&lt;b&gt;Dbg Clk&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="60" height="40" as="geometry" />

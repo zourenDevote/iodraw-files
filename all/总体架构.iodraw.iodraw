@@ -52,8 +52,11 @@
             <mxPoint x="1400" y="679.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-10" value="&lt;b&gt;USER LOGIC&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

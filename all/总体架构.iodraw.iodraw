@@ -128,10 +128,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-110" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;CTU(触发单元)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1995" y="1580" width="105" height="60" as="geometry" />
+          <mxGeometry x="1995" y="1610" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-111" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Compressor(数据压缩)&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.375;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2050" y="1650" width="275" height="80" as="geometry" />
+          <mxGeometry x="2122.5" y="1610" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-113" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;WAVEFORM BUFFER&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2165" y="1770" width="100" height="60" as="geometry" />

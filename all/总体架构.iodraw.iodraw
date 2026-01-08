@@ -150,7 +150,7 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-164" value="专用交换机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1100" y="850" width="800" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-176" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.755;exitY=-0.011;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;exitPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-164">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-176" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.767;exitY=0.029;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;exitPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-164">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1710" y="877" as="sourcePoint" />
             <mxPoint x="1711" y="745" as="targetPoint" />
@@ -162,9 +162,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-50" target="B37dk_r1iqh0blmyG7QI-164">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.87;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-54" target="B37dk_r1iqh0blmyG7QI-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

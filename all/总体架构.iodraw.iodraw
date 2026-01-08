@@ -159,6 +159,12 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-164" target="B37dk_r1iqh0blmyG7QI-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-164" target="B37dk_r1iqh0blmyG7QI-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-164" target="B37dk_r1iqh0blmyG7QI-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-164" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1523" y="910" width="255" height="90" as="geometry" />
         </mxCell>

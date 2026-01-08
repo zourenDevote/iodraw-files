@@ -140,11 +140,11 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-138" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;GUI图形化界面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="995" y="435" width="255" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-139" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;GUI图形化界面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1350" y="435" width="170" height="90" as="geometry" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-141" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;GUI图形化界面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1312.5" y="435" width="255" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-140" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;GUI图形化界面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1710" y="430" width="170" height="90" as="geometry" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-142" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;GUI图形化界面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1640" y="435" width="255" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

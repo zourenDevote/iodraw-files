@@ -90,6 +90,9 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-87" value="&lt;b&gt;Compressor(数据压缩)&lt;/b&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.375;" vertex="1" parent="1">
           <mxGeometry x="2235" y="1170" width="275" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-88" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2155" y="1220" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

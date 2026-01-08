@@ -22,10 +22,10 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="960" y="890" width="960" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="960" y="400" width="960" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="960" y="620" width="960" height="190" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;curved=1;startArrow=classic;startFill=1;strokeColor=#00994D;fontSize=20;fontStyle=1" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-48" target="B37dk_r1iqh0blmyG7QI-51">

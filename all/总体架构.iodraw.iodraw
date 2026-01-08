@@ -121,6 +121,12 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-106" value="用户逻辑" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1900" y="1400" width="460" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-107" target="B37dk_r1iqh0blmyG7QI-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-107" target="B37dk_r1iqh0blmyG7QI-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-107" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Probes&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1995" y="1525" width="270" height="30" as="geometry" />
         </mxCell>

@@ -75,7 +75,7 @@
         <mxCell id="8ThNlsDh-dKsuDc1vNGk-21" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;Trace Buffer&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1180" y="910" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8ThNlsDh-dKsuDc1vNGk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#00994D;strokeWidth=2;" edge="1" parent="1" source="8ThNlsDh-dKsuDc1vNGk-22" target="8ThNlsDh-dKsuDc1vNGk-20">
+        <mxCell id="8ThNlsDh-dKsuDc1vNGk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#00994D;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ThNlsDh-dKsuDc1vNGk-22" target="8ThNlsDh-dKsuDc1vNGk-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8ThNlsDh-dKsuDc1vNGk-22" value="影子寄存器&lt;div&gt;(Shadow Register)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1" vertex="1" parent="1">

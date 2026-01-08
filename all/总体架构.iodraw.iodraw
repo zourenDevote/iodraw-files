@@ -200,14 +200,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-201" target="B37dk_r1iqh0blmyG7QI-111">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-201" target="B37dk_r1iqh0blmyG7QI-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-201" target="B37dk_r1iqh0blmyG7QI-110">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-201" target="B37dk_r1iqh0blmyG7QI-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-201" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;全局时间戳&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2270" y="1815" width="105" height="60" as="geometry" />
+          <mxGeometry x="2300" y="1815" width="105" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

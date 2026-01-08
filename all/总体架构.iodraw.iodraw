@@ -149,8 +149,8 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-144" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;PCIE&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="995" y="655" width="255" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-145" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;PCIE&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1005" y="665" width="255" height="90" as="geometry" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-145" value="以太网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1312.5" y="655" width="255" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

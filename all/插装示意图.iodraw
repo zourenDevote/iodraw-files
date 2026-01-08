@@ -7,8 +7,11 @@
         <mxCell id="32XEwm2GxQgWsTrvoj4Y-2" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8ThNlsDh-dKsuDc1vNGk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32XEwm2GxQgWsTrvoj4Y-3" target="32XEwm2GxQgWsTrvoj4Y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="32XEwm2GxQgWsTrvoj4Y-3" value="组合逻辑" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="210" width="150" height="90" as="geometry" />
+          <mxGeometry x="650" y="215" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="32XEwm2GxQgWsTrvoj4Y-4" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="230" width="120" height="60" as="geometry" />

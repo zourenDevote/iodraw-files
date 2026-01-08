@@ -186,6 +186,9 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-163" value="以太网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1533" y="665" width="255" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-164" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1533" y="910" width="255" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

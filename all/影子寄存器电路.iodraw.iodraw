@@ -80,6 +80,9 @@
         <mxCell id="VQeg5HYV5PopePnqPNoj-27" value="DEBUG时钟域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="460" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VQeg5HYV5PopePnqPNoj-28" value="用户时钟域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

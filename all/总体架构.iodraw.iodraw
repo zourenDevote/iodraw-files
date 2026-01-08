@@ -58,8 +58,37 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-92" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.88;size=110;position=0.75;rotation=-180;base=18;" vertex="1" parent="1">
           <mxGeometry x="1800" y="1280" width="670" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-93" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="1420" width="560" height="560" as="geometry" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1510" width="460" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-106" target="B37dk_r1iqh0blmyG7QI-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-106" value="用户逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1400" width="460" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-107" value="&lt;b&gt;Probes&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="1525" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.926;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-106" target="B37dk_r1iqh0blmyG7QI-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2015" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-110" value="&lt;b&gt;CTU(触发单元)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="1580" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-111" value="&lt;b&gt;Compressor(数据压缩)&lt;/b&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.375;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="1630" width="275" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-112" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-113" value="&lt;b&gt;WAVEFORM BUFFER&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="1750" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

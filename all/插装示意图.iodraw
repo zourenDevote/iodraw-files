@@ -134,8 +134,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ThNlsDh-dKsuDc1vNGk-42" value="&lt;b&gt;Dbg Clk&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="8ThNlsDh-dKsuDc1vNGk-42" value="&lt;b&gt;User Clk&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ThNlsDh-dKsuDc1vNGk-45" value="&lt;b&gt;User Clk&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

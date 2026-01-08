@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Isgv37yUOZAdg6BuYeko">
-    <mxGraphModel dx="1728" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="795" y="465" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-92" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.88;size=110;position=0.75;rotation=-180;base=18;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1280" width="670" height="560" as="geometry" />
+          <mxGeometry x="1800" y="1280" width="670" height="590" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1900" y="1510" width="460" height="340" as="geometry" />
@@ -72,11 +72,6 @@
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.926;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-106" target="B37dk_r1iqh0blmyG7QI-107">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-106">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2015" y="1620" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-110" value="&lt;b&gt;CTU(触发单元)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1995" y="1580" width="270" height="30" as="geometry" />

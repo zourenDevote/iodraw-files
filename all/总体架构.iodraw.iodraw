@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-110" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;CTU(触发单元)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1915" y="1900" width="105" height="60" as="geometry" />
+          <mxGeometry x="1950" y="1920" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-111" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Compressor(数据压缩)&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.375;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2140" y="1920" width="185" height="80" as="geometry" />
@@ -200,8 +200,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-201" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;CTU(触发单元)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2290" y="1825" width="105" height="60" as="geometry" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-201" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;全局时间戳&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2270" y="1815" width="105" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

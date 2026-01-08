@@ -70,6 +70,9 @@
         <mxCell id="8ThNlsDh-dKsuDc1vNGk-22" value="影子寄存器&lt;div&gt;(Shadow Register)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="710" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="8ThNlsDh-dKsuDc1vNGk-23" value="影子寄存器&lt;div&gt;(Shadow Register)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="820" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

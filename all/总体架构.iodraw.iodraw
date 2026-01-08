@@ -99,7 +99,7 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-65" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;软件层Software Layer&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="795" y="465" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-92" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.88;size=110;position=0.75;rotation=-180;base=18;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-92" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;size=110;position=0.75;rotation=-180;base=168;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2090" y="1090" width="670" height="590" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-104" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontSize=20;fontStyle=1;fillColor=#dae8fc;" vertex="1" parent="1">

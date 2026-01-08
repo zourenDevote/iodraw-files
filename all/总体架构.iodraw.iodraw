@@ -87,8 +87,8 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-84" value="&lt;b&gt;CTU(触发单元)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2235" y="1120" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-85" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2235" y="1180" width="120" height="60" as="geometry" />
+        <mxCell id="B37dk_r1iqh0blmyG7QI-85" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-24.999999999999545;" vertex="1" parent="1">
+          <mxGeometry x="2235" y="1180" width="195" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

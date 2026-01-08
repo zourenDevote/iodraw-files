@@ -67,7 +67,7 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-65" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;软件层Software Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="795" y="465" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-66" value="用户逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2260" y="1390" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-67" target="B37dk_r1iqh0blmyG7QI-66">

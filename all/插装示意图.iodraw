@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8ThNlsDh-dKsuDc1vNGk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32XEwm2GxQgWsTrvoj4Y-2" target="32XEwm2GxQgWsTrvoj4Y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="32XEwm2GxQgWsTrvoj4Y-2" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -17,7 +20,10 @@
           <mxGeometry x="900" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ThNlsDh-dKsuDc1vNGk-1" value="组合逻辑" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="210" width="150" height="90" as="geometry" />
+          <mxGeometry x="1150" y="215" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8ThNlsDh-dKsuDc1vNGk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="32XEwm2GxQgWsTrvoj4Y-4" target="8ThNlsDh-dKsuDc1vNGk-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

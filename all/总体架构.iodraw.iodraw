@@ -25,7 +25,7 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-132" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#F10909;curved=0;strokeWidth=2;fontSize=20;fontStyle=1" edge="1" parent="1" source="B37dk_r1iqh0blmyG7QI-49" target="B37dk_r1iqh0blmyG7QI-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-147" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B37dk_r1iqh0blmyG7QI-132">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-147" value="控制链路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B37dk_r1iqh0blmyG7QI-132">
           <mxGeometry x="0.0104" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -134,6 +134,11 @@
               <mxPoint x="1200" y="1775" />
               <mxPoint x="1200" y="960" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-148" value="数据链路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B37dk_r1iqh0blmyG7QI-128">
+          <mxGeometry x="0.3802" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-125" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;NOC Router&lt;/span&gt;" style="shape=cross;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">

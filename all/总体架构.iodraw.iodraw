@@ -96,6 +96,9 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-91" value="&lt;b&gt;WAVEFORM BUFFER&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2310" y="1290" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B37dk_r1iqh0blmyG7QI-92" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1090" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

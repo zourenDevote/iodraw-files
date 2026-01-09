@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Isgv37yUOZAdg6BuYeko">
-    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
         <mxCell id="B37dk_r1iqh0blmyG7QI-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.072;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00994D;strokeWidth=2;curved=1;fontSize=20;fontStyle=1" parent="1" source="B37dk_r1iqh0blmyG7QI-106" target="B37dk_r1iqh0blmyG7QI-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B37dk_r1iqh0blmyG7QI-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00994D;strokeWidth=2;curved=1;fontSize=20;fontStyle=1" parent="1" source="B37dk_r1iqh0blmyG7QI-111" target="B37dk_r1iqh0blmyG7QI-113" edge="1">
+        <mxCell id="B37dk_r1iqh0blmyG7QI-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.626;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00994D;strokeWidth=2;curved=1;fontSize=20;fontStyle=1" parent="1" source="B37dk_r1iqh0blmyG7QI-111" target="B37dk_r1iqh0blmyG7QI-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-125" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;NOC Router&lt;/span&gt;" style="shape=cross;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">

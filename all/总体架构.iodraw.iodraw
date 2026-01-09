@@ -127,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-107" value="Shadow Register/ Scan Chain" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2195" y="1255" width="270" height="30" as="geometry" />
+          <mxGeometry x="2195" y="1255" width="270" height="55" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.926;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00994D;strokeWidth=2;curved=1;fontSize=20;fontStyle=1" parent="1" source="B37dk_r1iqh0blmyG7QI-106" target="B37dk_r1iqh0blmyG7QI-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -141,10 +141,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-110" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;CTU(触发单元)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2230" y="1360" width="105" height="60" as="geometry" />
+          <mxGeometry x="2230" y="1370" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-111" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Compressor(数据压缩)&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.375;fontSize=20;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="1360" width="185" height="80" as="geometry" />
+          <mxGeometry x="2420" y="1370" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-113" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;WAVEFORM BUFFER&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2365" y="1500" width="100" height="60" as="geometry" />

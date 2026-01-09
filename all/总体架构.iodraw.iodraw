@@ -162,10 +162,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-138" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;GUI图形化界面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="995" y="435" width="255" height="90" as="geometry" />
+          <mxGeometry x="995" y="435" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-141" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;CORE(解压算法，数据存储，计数器)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1312.5" y="435" width="237.5" height="90" as="geometry" />
+          <mxGeometry x="1180" y="435" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B37dk_r1iqh0blmyG7QI-142" value="Driver(PCIE, DMA控制器)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1640" y="435" width="255" height="90" as="geometry" />
@@ -221,6 +221,9 @@
             <mxPoint x="1990" y="1250" as="sourcePoint" />
             <mxPoint x="2040" y="1200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Zo6ciJuJzScijXCoYclr-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;CORE(解压算法，数据存储，计数器)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="435" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
